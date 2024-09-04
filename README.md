@@ -1,4 +1,4 @@
-This repository serves as the basic template for the AI tool produced by the component AI.
+Hello, this is Ying and working as an AI engineer in Component AI.
 
 <!---
 yli-cai/yli-cai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
